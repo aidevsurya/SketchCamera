@@ -11,7 +11,7 @@
 <p>
   <ul>
     <li>
-      <b>Double click to Run SketchCamera.exe</b>
+      <b>Download Executable from Releases section and Double click to Run SketchCamera.exe</b>
     </li>
   </ul>
 </p>
